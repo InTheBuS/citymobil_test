@@ -1,13 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
+  font-weight: 500;
+  color: #7B8395;
+  font-family: 'IBM Plex Mono', monospace;
+
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+input, button, th, td {
+  font-family: 'IBM Plex Mono', monospace;
 }
+
+body, input, button, th {
+  font-weight: 500;
+  color: #7B8395;
+}
+table, td, th {
+  border: 1px solid #DEE5EB;
+  border-collapse: collapse;
+}
+td {
+  font-weight: 400;
+  color: #1F232E;
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+
+
+

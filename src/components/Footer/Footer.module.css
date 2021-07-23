@@ -1,0 +1,11 @@
+.footer {
+  font-size: 3rem;
+  position: sticky;
+  bottom: 0;
+  grid-area: footer;
+  background: #D4D5D6;
+  mix-blend-mode: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

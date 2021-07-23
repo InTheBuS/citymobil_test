@@ -1,0 +1,9 @@
+.aside {
+  font-size: 3rem;
+  grid-area: aside;
+  background: #E4E5E6;
+  mix-blend-mode: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

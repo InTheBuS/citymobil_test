@@ -1,0 +1,8 @@
+.emptyBody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background: rgba(240, 242, 244, 0.5);
+  flex: 1;
+}
